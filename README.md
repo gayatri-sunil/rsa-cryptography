@@ -17,6 +17,7 @@ Implements RSA key generation, encryption/decryption, and signing, with CRT opti
 ## How to run
 ```bash
 python rsa_lab.py
+```
 
 ## Notes
 - This implementation is intended for educational and lab use.
